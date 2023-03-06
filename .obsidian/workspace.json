@@ -11,14 +11,11 @@
             "id": "26f4060b10d9dfe3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Highlights.canvas",
-                "viewState": {
-                  "x": -242.77390753500117,
-                  "y": 679.8957387351385,
-                  "zoom": -1.2894162168031265
-                }
+                "file": "Physics Grade 11/K1 Position and Displacement.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd37332e20916967",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights.canvas",
+                "file": "Physics Grade 11/K1 Position and Displacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights.canvas",
+                "file": "Physics Grade 11/K1 Position and Displacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights.canvas"
+                "file": "Physics Grade 11/K1 Position and Displacement.md"
               }
             }
           },
@@ -160,17 +158,17 @@
   },
   "active": "26f4060b10d9dfe3",
   "lastOpenFiles": [
-    "Physics Grade 11/K4 Relative Velocities.md",
+    "Physics Grade 11/K3 Acceleration.md",
     "Physics Grade 11/K5 Graphing Linear Motion.md",
+    "Physics Grade 11/K4 Relative Velocities.md",
     "Highlights.canvas",
+    "Physics Grade 11/K1 Position and Displacement.md",
+    "Physics Grade 11/K2 Velocity.md",
     "Notes",
     "Physics-Notes",
     "Pasted image 20230305201241.png",
     "Pasted image 20230305201108.png",
-    "Physics Grade 11/K2 Velocity.md",
     "Untitled.canvas",
-    "Physics Grade 11/K3 Acceleration.md",
-    "Physics Grade 11/K1 Position and Displacement.md",
     "2023-03-01.md",
     "Pasted image 20230301150211.png",
     "Pasted image 20230301145935.png",
