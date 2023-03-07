@@ -12,7 +12,6 @@
 ## Positioning Logic
 ![Pasted image 20230228154733](https://user-images.githubusercontent.com/80181145/223285399-66f00a6f-a8a7-4b9f-a527-92864c989ab5.png)
 
-
 - Jimmy is 10m South of Abdul
 	- Mathematical formula: d$_J$ = 10m {South of Abdul}
 * The distance = d$_J$ → 10m + 20m + 10m = 40m
