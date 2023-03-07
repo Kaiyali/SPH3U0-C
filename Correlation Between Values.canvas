@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"Displacement","id":"0b77aa207567495f","x":-332,"y":-100,"width":185,"height":60,"color":"1"},
+		{"type":"text","text":"Distance","id":"30ed2a96f5788fae","x":-665,"y":-100,"width":145,"height":60,"color":"1"},
+		{"type":"text","text":"Scalar","id":"12c4fa36f77cbd1e","x":-570,"y":-270,"width":100,"height":60,"color":"1"},
+		{"type":"text","text":"Vector","id":"3c5f4f8107a04e2a","x":-368,"y":-270,"width":120,"height":60,"color":"1"},
+		{"type":"text","text":"Velocity","id":"8aaefffb3ea85507","x":-308,"y":56,"width":140,"height":60,"color":"1"},
+		{"type":"text","text":"Speed","id":"7caea97ccf3067c3","x":-655,"y":56,"width":125,"height":60,"color":"1"},
+		{"type":"text","text":"Accleration","id":"1e8b1574f3a15751","x":-319,"y":220,"width":162,"height":60,"color":"1"},
+		{"type":"text","text":"Line","id":"1d30519fcc7dbd6d","x":-460,"y":-460,"width":102,"height":50,"color":"2"},
+		{"id":"17622bec375236ad","x":-60,"y":240,"width":201,"height":150,"type":"file","file":"Pasted image 20230301150211.png"}
+	],
+	"edges":[
+		{"id":"d3d898b8978410fe","fromNode":"3c5f4f8107a04e2a","fromSide":"bottom","toNode":"0b77aa207567495f","toSide":"top"},
+		{"id":"53b3c7e59a2c76e0","fromNode":"12c4fa36f77cbd1e","fromSide":"bottom","toNode":"30ed2a96f5788fae","toSide":"top"},
+		{"id":"efcf8aa89d2b0fb2","fromNode":"1d30519fcc7dbd6d","fromSide":"bottom","toNode":"3c5f4f8107a04e2a","toSide":"top"},
+		{"id":"588d0a9398da1054","fromNode":"1d30519fcc7dbd6d","fromSide":"bottom","toNode":"12c4fa36f77cbd1e","toSide":"top"},
+		{"id":"dc85024310b1ea79","fromNode":"30ed2a96f5788fae","fromSide":"bottom","toNode":"7caea97ccf3067c3","toSide":"top"},
+		{"id":"f5e01314056709fa","fromNode":"0b77aa207567495f","fromSide":"bottom","toNode":"8aaefffb3ea85507","toSide":"top"},
+		{"id":"56aee76b24d44474","fromNode":"8aaefffb3ea85507","fromSide":"bottom","toNode":"1e8b1574f3a15751","toSide":"top"},
+		{"id":"6053e8a58ba2f9a7","fromNode":"1e8b1574f3a15751","fromSide":"right","toNode":"17622bec375236ad","toSide":"left"}
+	]
+}
