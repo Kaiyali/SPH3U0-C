@@ -9,5 +9,4 @@ Jimmy is going for a swim... he can move at 4m/s in still water. He jumps into a
 a. What is his velocity relative to someone else standing on the shore?
 b. Where does he get to land on the opposite shore?
 
-![[Pasted image 20230306164213.png]]
-
+![Pasted image 20230306164213](https://user-images.githubusercontent.com/80181145/223290073-5d774623-400d-4f17-b4d8-aba94114e34e.png)
