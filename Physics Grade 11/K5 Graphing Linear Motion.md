@@ -16,3 +16,4 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 * All these straight lines, have a sonstant slope/velocities... Therefore, there is no acceleration on this graph.
 
 #### Part B:
+
