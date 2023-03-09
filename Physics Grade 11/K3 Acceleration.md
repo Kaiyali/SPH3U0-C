@@ -4,7 +4,7 @@ Acceleration is cordinated with how velocity works. If a velocity of an object m
 
 ![Pasted image 20230301145909](https://user-images.githubusercontent.com/80181145/223285761-765b1e33-a645-449f-ba5f-64d1f8bc2aff.png)
 
-Although in physics negatives are frowned upon in acceleration there are negative values. If the acceleration is in the same direction as the [[K2 Velocity|velocity]] the value would be positive; but if the [[K2 Velocity|velocity]] is in the oppiste direction the acceleration value would be negative.  
+Although in physics negatives are frowned upon in acceleration there are negative values. If the acceleration is in the same direction as the [[K2 Velocity|velocity]] the value would be positive; but if the [[K2 Velocity|velocity]] is in the opposite  direction the acceleration value would be negative.  
 
 ![[Pasted image 20230308170818.png]]
 
