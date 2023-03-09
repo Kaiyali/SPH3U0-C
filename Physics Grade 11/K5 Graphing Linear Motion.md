@@ -4,14 +4,14 @@
 
 There are only 2 peieces of information on these graphs... positive (y value) and time (x time). 
 
-* Using this graph we can easily ditermine the displacement (chagne in position) of the object.
+* Using this graph we can easily determine the displacement (chagne in position) of the object.
 	* <font color="#6C0BA9">If </font>the position is increasing the displacement is positive → Forward
 	* <font color="#6C0BA9">If </font>the position is decreasing the displacemetn is negatice → backward
 	* <font color="#6C0BA9">If </font>the position is not chanigng there is no displacement
 
 ![Pasted image 20230308171937](https://user-images.githubusercontent.com/80181145/223890920-281b2dac-466a-48f9-a8e2-6c077ff262a3.png)
 
-* Velocity is teh cahgne in position (displacement) over a change in time... Since we have position and time measurment on this graph are shown, we can use it to calcaulate the velocity.
+* Velocity is the cahgne in position (displacement) over a change in time... Since we have position and time measurment on this graph are shown, we can use it to calcaulate the velocity.
 * Slope: The Slope of this graph is the [[K2 Velocity|velocity]] 
 
 * A postive slope is a forward velocity. A negative slope is a backward velocity. Calcaulate the slope to get the speed of the object. 
