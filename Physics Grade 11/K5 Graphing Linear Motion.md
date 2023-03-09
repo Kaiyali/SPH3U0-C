@@ -26,8 +26,9 @@ A note on "instancous velocity" vs "average velocity"
 
 #### Part C:
 
-For *only one point* of information you must use "instanceous velocity"
+For _only one point_ of information you must use "instanceous velocity"
 
-A Tagent line is a straight line that only touches a graph at one point, It does not go through the graph it merely bruushes b
+A Tagent line is a straight line that only touches a graph at one point, It does not go through the graph it merely brushes beside it such that the slope of the tangent line marches the slope of the graph.
+
 
 
