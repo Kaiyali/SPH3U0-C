@@ -17,3 +17,17 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 
 #### Part B:
 
+Accleration is the change in velocity and velocity is the slope of a position-time graph. Then acceleration must cause the slope to change.
+
+A note on "instancous velocity" vs "average velocity"
+
+* To ge the Average Velocity of a mocing object two points of information must be given
+* its inital position and time as well as its final position and time
+
+#### Part C:
+
+For *only one point* of information you must use "instanceous velocity"
+
+A Tagent line is a straight line that only touches a graph at one point, It does not go through the graph it merely bruushes b
+
+
