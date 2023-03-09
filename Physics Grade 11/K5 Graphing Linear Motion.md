@@ -16,7 +16,7 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 
 * A postive slope is a forward velocity. A negative slope is a backward velocity. Calcaulate the slope to get the speed of the object. 
 
-![[Pasted image 20230308172928.png]]
+![Pasted image 20230308172928](https://user-images.githubusercontent.com/80181145/223892633-7484529c-d414-48b3-887d-e55c2930b35f.png)
 
 * All these straight lines, have a sonstant slope/velocities... Therefore, there is no acceleration on this graph.
 
