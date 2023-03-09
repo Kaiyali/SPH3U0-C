@@ -9,6 +9,8 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 	* <font color="#6C0BA9">If </font>the position is decreasing the displacemetn is negatice → backward
 	* <font color="#6C0BA9">If </font>the position is not chanigng there is no displacement
 
+![[Pasted image 20230308171937.png]]
+
 * Velocity is teh cahgne in position (displacement) over a change in time... Since we have position and time measurment on this graph are shown, we can use it to calcaulate the velocity.
 * Slope: The Slope of this graph is the [[K2 Velocity|velocity]] 
 
