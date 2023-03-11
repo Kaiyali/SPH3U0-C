@@ -28,7 +28,11 @@ A note on "instancous velocity" vs "average velocity"
 
 * To ge the Average Velocity of a moving object two points of information must be given
 * its inital position and time as well as its final position and time
-#### F
+
+##### Formula
+
+![[Pasted image 20230311071913.png]]
+
 #### Part C:
 
 For _only one point_ of information you must use "instanceous velocity"
