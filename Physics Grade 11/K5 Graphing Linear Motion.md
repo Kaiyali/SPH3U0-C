@@ -23,12 +23,12 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 #### Part B:
 
 Accleration is the change in velocity and velocity is the slope of a position-time graph. Therefore the acceleration must cause the slope to change.
-
+![[Pasted image 20230311071607.png]]
 A note on "instancous velocity" vs "average velocity"
 
 * To ge the Average Velocity of a moving object two points of information must be given
 * its inital position and time as well as its final position and time
-
+#### F
 #### Part C:
 
 For _only one point_ of information you must use "instanceous velocity"
