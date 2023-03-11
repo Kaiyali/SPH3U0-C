@@ -9,7 +9,8 @@
 		{"type":"text","text":"# Vectors\n\n```TypeScript\nfunction Vector(Direction:String,Magnitude:number):number{\n\treturn 0;\n}\n```\nVectors are a way to convey more information. It provides two values the direction and magnitude. \n![[Pasted image 20230228154038.png]]","id":"5238a1528c6b5e67","x":-2240,"y":190,"width":720,"height":380,"color":"6"},
 		{"type":"file","file":"Physics Grade 11/K4 Relative Velocities.md","id":"bd00d9ba1f00728a","x":1215,"y":140,"width":545,"height":480,"color":"2"},
 		{"type":"file","file":"Physics Grade 11/K5 Graphing Linear Motion.md","id":"2127cea01de6b029","x":2000,"y":140,"width":480,"height":480,"color":"2"},
-		{"type":"text","text":"# Formula\n\n![[Pasted image 20230228163121.png]]","id":"22274dea94cdf593","x":-115,"y":-580,"width":549,"height":560,"color":"6"}
+		{"type":"text","text":"# Formula\n\n![[Pasted image 20230228163121.png]]","id":"22274dea94cdf593","x":-115,"y":-580,"width":549,"height":560,"color":"6"},
+		{"id":"1a54fbd13566b0e0","x":2179,"y":-440,"width":603,"height":351,"color":"6","type":"text","text":"# Formula\n![[Pasted image 20230311071913.png]]"}
 	],
 	"edges":[
 		{"id":"d35e9c0d688c8def","fromNode":"ee5c58d1efee0ba6","fromSide":"top","toNode":"d2e7c78ce4d8964b","toSide":"bottom"},
@@ -20,6 +21,7 @@
 		{"id":"a50512e8b540380d","fromNode":"2091a75616d91721","fromSide":"right","toNode":"8b21fdd694df54a3","toSide":"left"},
 		{"id":"8f7d3c6d96472036","fromNode":"8b21fdd694df54a3","fromSide":"bottom","toNode":"10b2c7ca4d228494","toSide":"top"},
 		{"id":"2ced56ee88c9d96e","fromNode":"8b21fdd694df54a3","fromSide":"right","toNode":"bd00d9ba1f00728a","toSide":"left"},
-		{"id":"e899178c821cef67","fromNode":"bd00d9ba1f00728a","fromSide":"right","toNode":"2127cea01de6b029","toSide":"left"}
+		{"id":"e899178c821cef67","fromNode":"bd00d9ba1f00728a","fromSide":"right","toNode":"2127cea01de6b029","toSide":"left"},
+		{"id":"084c1cf2103b0082","fromNode":"2127cea01de6b029","fromSide":"top","toNode":"1a54fbd13566b0e0","toSide":"bottom"}
 	]
 }
