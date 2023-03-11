@@ -22,7 +22,7 @@ There are only 2 peieces of information on these graphs... positive (y value) an
 
 #### Part B:
 
-Accleration is the change in velocity and velocity is the slope of a position-time graph. Then acceleration must cause the slope to change.
+Accleration is the change in velocity and velocity is the slope of a position-time graph. Therefore the acceleration must cause the slope to change.
 
 A note on "instancous velocity" vs "average velocity"
 
